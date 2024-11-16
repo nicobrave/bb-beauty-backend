@@ -1,0 +1,9 @@
+/bb-beauty-backend
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+/venv
+/bb-beauty-backend/bin
+/bb-beauty-backend/lib
+/bb-beauty-backend/include
